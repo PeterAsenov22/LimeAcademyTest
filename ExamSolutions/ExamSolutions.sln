@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Braces", "Braces\Braces.csproj", "{AADF948C-8140-4CDA-AB1C-5E34C86DA93B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTitles", "MovieTitles\MovieTitles.csproj", "{281DE840-1E4B-4812-AC77-E4DC98D874B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AADF948C-8140-4CDA-AB1C-5E34C86DA93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AADF948C-8140-4CDA-AB1C-5E34C86DA93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AADF948C-8140-4CDA-AB1C-5E34C86DA93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281DE840-1E4B-4812-AC77-E4DC98D874B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281DE840-1E4B-4812-AC77-E4DC98D874B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281DE840-1E4B-4812-AC77-E4DC98D874B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281DE840-1E4B-4812-AC77-E4DC98D874B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
