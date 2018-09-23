@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Braces", "Braces\Braces.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTitles", "MovieTitles\MovieTitles.csproj", "{281DE840-1E4B-4812-AC77-E4DC98D874B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music", "Music\Music.csproj", "{187F9F70-AEDF-428A-9821-E841E33CDE01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{281DE840-1E4B-4812-AC77-E4DC98D874B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{281DE840-1E4B-4812-AC77-E4DC98D874B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{281DE840-1E4B-4812-AC77-E4DC98D874B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187F9F70-AEDF-428A-9821-E841E33CDE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187F9F70-AEDF-428A-9821-E841E33CDE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187F9F70-AEDF-428A-9821-E841E33CDE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187F9F70-AEDF-428A-9821-E841E33CDE01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
